@@ -1,0 +1,37 @@
+h1 {
+    padding: 30px 30px;
+    color: blueviolet;
+    font-size: 4rem;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    margin-left: 50px;
+}
+
+.big-img{
+    background: url("/img.big.jpeg");
+}
+
+.one{
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: chocolate;
+    line-height: 1.5em;
+    word-spacing: 10px;
+    text-transform:uppercase;
+}
+*{
+    background-color: cornsilk;
+    margin:0;
+    padding: 0;
+    color: orange;
+    font-size: 16px;
+    background-color: bisque;
+}
+
+.header {
+    padding: 20px 20px 20px 20px;
+    width: 50vw;
+    height: 40vh; 
+    background: url();
+}
